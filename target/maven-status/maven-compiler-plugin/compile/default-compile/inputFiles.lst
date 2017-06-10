@@ -1,0 +1,17 @@
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/ManagerRepository.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/EventHandler.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/utils/CustomerDateAndTimeDeserialize.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/EmployeeRepository.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/SpringDataRestEventHandler.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/TransformController.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/ProductController.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/entity/Product.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/SecurityConfiguration.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/WebSocketConfiguration.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/Manager.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/DatabaseLoader.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/Employee.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/SpringDataJpaUserDetailsService.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/ProductRepository.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/ControlidadeApp.java
+/home/bbonfim/dev/vcs/controlidade/src/main/java/com/controlidade/platform/config/RepositoryConfig.java

@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc versao="3.10" xmlns="http://www.portalfiscal.inf.br/nfe">
+	<NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+		<infNFe Id="NFe35161204019475000504550250008308041815669570" versao="3.10">
+			<ide>
+				<cUF>35</cUF>
+				<cNF>81566957</cNF>
+				<natOp>Ret Efetivo Merc Arm Geral</natOp>
+				<indPag>2</indPag>
+				<mod>55</mod>
+				<serie>25</serie>
+				<nNF>830804</nNF>
+				<dhEmi>2016-12-22T11:49:33-02:00</dhEmi>
+				<tpNF>1</tpNF>
+				<idDest>1</idDest>
+				<cMunFG>3522505</cMunFG>
+				<tpImp>1</tpImp>
+				<tpEmis>1</tpEmis>
+				<cDV>0</cDV>
+				<tpAmb>1</tpAmb>
+				<finNFe>1</finNFe>
+				<indFinal>1</indFinal>
+				<indPres>9</indPres>
+				<procEmi>0</procEmi>
+				<verProc>2.7.4</verProc>
+			</ide>
+			<emit>
+				<CNPJ>04019475000504</CNPJ>
+				<xNome>Farma Logistica e Armazens Gerais Ltda</xNome>
+				<xFant>Farma Logistica e Armazens Gerais Ltda</xFant>
+				<enderEmit>
+					<xLgr>Avenida Portugal</xLgr>
+					<nro>1100</nro>
+					<xBairro>Itaqui</xBairro>
+					<cMun>3522505</cMun>
+					<xMun>Itapevi</xMun>
+					<UF>SP</UF>
+					<CEP>06696060</CEP>
+					<xPais>Brasil</xPais>
+					<fone>1141437100</fone>
+				</enderEmit>
+				<IE>373113002115</IE>
+				<CRT>3</CRT>
+			</emit>
+			<dest>
+				<CNPJ>07768134000368</CNPJ>
+				<xNome>ASTELLAS FARMA BRASIL IMPORTACAO E DISTRIBUICAO LTDA</xNome>
+				<enderDest>
+					<xLgr>AV.PORTUGAL, 1100- RUA 5 A 7</xLgr>
+					<nro>63</nro>
+					<xBairro>ITAQUI</xBairro>
+					<cMun>3522505</cMun>
+					<xMun>ITAPEVI</xMun>
+					<UF>SP</UF>
+					<CEP>06696060</CEP>
+					<xPais>Brasil</xPais>
+				</enderDest>
+				<indIEDest>9</indIEDest>
+				<IE>373039201117</IE>
+			</dest>
+			<det nItem="1">
+				<prod>
+					<cProd>145298</cProd>
+					<cEAN/>
+					<xProd>VESOMNI TAB 6+0 4MG 30 COM BR</xProd>
+					<NCM>30049069</NCM>
+					<CFOP>5906</CFOP>
+					<uCom>UN</uCom>
+					<qCom>86.0000</qCom>
+					<vUnCom>42.8900</vUnCom>
+					<vProd>3688.54</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>86.0000</qTrib>
+					<vUnTrib>42.8900</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.00</vTotTrib>
+					<ICMS>
+						<ICMS40>
+							<orig>0</orig>
+							<CST>41</CST>
+						</ICMS40>
+					</ICMS>
+					<PIS>
+						<PISNT>
+							<CST>08</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>08</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+				<infAdProd>Lt: 16H23/35 Qtde:     86 NF 14180</infAdProd>
+			</det>
+			<det nItem="2">
+				<prod>
+					<cProd>145298</cProd>
+					<cEAN/>
+					<xProd>VESOMNI TAB 6+0 4MG 30 COM BR</xProd>
+					<NCM>30049069</NCM>
+					<CFOP>5906</CFOP>
+					<uCom>UN</uCom>
+					<qCom>66.0000</qCom>
+					<vUnCom>42.8900</vUnCom>
+					<vProd>2830.74</vProd>
+					<cEANTrib/>
+					<uTrib>UN</uTrib>
+					<qTrib>66.0000</qTrib>
+					<vUnTrib>42.8900</vUnTrib>
+					<indTot>1</indTot>
+				</prod>
+				<imposto>
+					<vTotTrib>0.00</vTotTrib>
+					<ICMS>
+						<ICMS40>
+							<orig>0</orig>
+							<CST>41</CST>
+						</ICMS40>
+					</ICMS>
+					<PIS>
+						<PISNT>
+							<CST>08</CST>
+						</PISNT>
+					</PIS>
+					<COFINS>
+						<COFINSNT>
+							<CST>08</CST>
+						</COFINSNT>
+					</COFINS>
+				</imposto>
+				<infAdProd>Lt: 16H22/35 Qtde:     66 NF 14180</infAdProd>
+			</det>
+			<total>
+				<ICMSTot>
+					<vBC>0.00</vBC>
+					<vICMS>0.00</vICMS>
+					<vICMSDeson>0.00</vICMSDeson>
+					<vBCST>0.00</vBCST>
+					<vST>0.00</vST>
+					<vProd>6519.28</vProd>
+					<vFrete>0.00</vFrete>
+					<vSeg>0.00</vSeg>
+					<vDesc>0.00</vDesc>
+					<vII>0.00</vII>
+					<vIPI>0.00</vIPI>
+					<vPIS>0.00</vPIS>
+					<vCOFINS>0.00</vCOFINS>
+					<vOutro>0.00</vOutro>
+					<vNF>6519.28</vNF>
+					<vTotTrib>0.00</vTotTrib>
+				</ICMSTot>
+			</total>
+			<transp>
+				<modFrete>0</modFrete>
+				<vol>
+					<qVol>2</qVol>
+					<pesoL>1.520</pesoL>
+				</vol>
+			</transp>
+			<infAdic>
+				<infCpl>R.FISCAL: 43305 O.VENDA: 504004 PEDIDO: 504004. Ref.S.NF Remessa: 14180 16.12.16 Susp. do IPI conf. Art. 40 Inc.III do DEC n:2637.98 Nao Inc.ICMS Art.7 Inc.III do DEC n:45490.00 Devolucao Parcial</infCpl>
+			</infAdic>
+		</infNFe>
+		<Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+			<SignedInfo>
+				<CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+				<SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/>
+				<Reference URI="#NFe35161204019475000504550250008308041815669570">
+					<Transforms>
+						<Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/>
+						<Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/>
+					</Transforms>
+					<DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/>
+					<DigestValue>A7bDZC0+bvoDdh1skFMciNP34nk=</DigestValue>
+				</Reference>
+			</SignedInfo>
+			<SignatureValue>Wplf7nNiqmCoOW6D1KSA0OBB/sTj3EpxzyWwCK7lY5DBtwbrM9Eo1hB7pUb801yd5DvNT3+uOdXwk98gJOMUb5SQ86voXLnxgEkxXkErWC7Pn+v6Ro14kvhcS6uygHEiLvYKtQ47041d65jYGCw+VAQ6TajnOdVPS0nr1qwzX0o9Vp65JDt5wDDRPLwdW6tgZY54SAqHUqZhNUYcXc/0ecTtivOOUWpnQ94W5OcK/RgjsCZgtEGG+JLmutE6faO6u/Xt55E46mNviiIuSo9dub9K4wxi0+zLSwHfo5RXvGQF08Syo3a3WIMMLT9peAvsNjJCgyU8Ww6MY+wzbtXVgQ==</SignatureValue>
+			<KeyInfo>
+				<X509Data>
+					<X509Certificate>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</X509Certificate>
+				</X509Data>
+			</KeyInfo>
+		</Signature>
+	</NFe>
+	<protNFe versao="3.10">
+		<infProt>
+			<tpAmb>1</tpAmb>
+			<verAplic>SP_NFE_PL_008i2</verAplic>
+			<chNFe>35161204019475000504550250008308041815669570</chNFe>
+			<dhRecbto>2016-12-22T11:50:58-02:00</dhRecbto>
+			<nProt>135160807160922</nProt>
+			<digVal>A7bDZC0+bvoDdh1skFMciNP34nk=</digVal>
+			<cStat>100</cStat>
+			<xMotivo>Autorizado o uso da NF-e</xMotivo>
+		</infProt>
+	</protNFe>
+</nfeProc>
